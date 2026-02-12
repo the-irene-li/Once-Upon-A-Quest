@@ -1,3 +1,5 @@
+<img src="images/logo.png" width="300" alt="Once Upon a Quest Logo">
+
 # Once Upon a Quest
 Embark on a magical learning adventure, and let your wonder guide the way.
 
